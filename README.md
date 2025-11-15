@@ -1,25 +1,4 @@
-<!-- WAYMIOS README — BiscutBite Labs -->
-<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-<style>
-  body {
-    font-family: 'Fredoka', sans-serif;
-  }
-  .glass {
-    background: rgba(255, 255, 255, 0.10);
-    border-radius: 20px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.25);
-    backdrop-filter: blur(12px);
-    padding: 20px;
-  }
-  .glow {
-    animation: glow 3s ease-in-out infinite alternate;
-  }
-  @keyframes glow {
-    from { text-shadow: 0 0 5px #00eaff; }
-    to { text-shadow: 0 0 35px #00faff; }
-  }
-</style>
 
 <h1 align="center" class="glow">
   🚀 WaymiOS  
