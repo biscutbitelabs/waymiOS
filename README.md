@@ -34,12 +34,6 @@
 
 <div align="center">
 
-### 🌐 Animated WaymiOS Banner
-<img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=WaymiOS&fontAlign=50&color=0:00eaff,100:0096ff&fontColor=ffffff&fontSize=70&animation=twinkling&fontFamily=Fredoka" />
-
-</div>
-
----
 
 ## 🧪 What Is WaymiOS?
 
